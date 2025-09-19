@@ -7,6 +7,7 @@ import pytest
      ("partition(12)", 77),
      ("partition(18)", 385),
      ("partition(23)", 1255),
+     ("partition(35)", 14883),
      ("partition(42)", 53174),
      ("partition(123)", 2552338241)])
 
